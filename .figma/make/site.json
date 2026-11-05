@@ -1,0 +1,11 @@
+{
+  "title": "TurfBoat - Sports Booking App",
+  "description": "Explore TurfBoat’s interactive showcase for booking local sports turfs, splitting payments, finding matches, and joining city rivalries—built for Indian players and team captains.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
